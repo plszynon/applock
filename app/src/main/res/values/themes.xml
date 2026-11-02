@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.AppLock" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">#4F46E5</item>
+        <item name="colorPrimaryDark">#0F172A</item>
+        <item name="colorAccent">#818CF8</item>
+        <item name="android:windowBackground">#0F172A</item>
+        <item name="android:statusBarColor">#0F172A</item>
+        <item name="android:navigationBarColor">#0F172A</item>
+    </style>
+</resources>

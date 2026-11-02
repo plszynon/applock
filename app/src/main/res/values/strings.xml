@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppLock</string>
+    <string name="service_desc">AppLock używa usługi dostępności tylko do wykrycia, która aplikacja jest otwarta, aby pokazać ekran blokady. Nie czyta ani nie zapisuje Twoich danych.</string>
+</resources>
